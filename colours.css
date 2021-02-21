@@ -1,0 +1,12 @@
+@font-face {
+    font-family: SourceCodePro;
+    src: url(Font/SourceCodePro-Regular.ttf);
+  }
+
+ body {
+     background-color: gainsboro;
+     font-family: SourceCodePro;
+ }
+ img{
+    border: 1px solid black;
+ }
